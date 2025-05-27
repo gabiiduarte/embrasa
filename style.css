@@ -1,0 +1,177 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+}
+#imagem {
+ text-align: center;
+}
+.tabela1{
+    text-align: center;
+}
+table{
+    width: 100%;
+    margin-bottom: .5em;
+    table-layout: fixed;
+    text-align: center;
+}
+td, th {
+    padding: .7em;
+    margin: 0;
+    border: 1px solid #6e3838;
+    text-align: center;
+}
+th{
+    background-color: rgb(97, 12, 12);
+}
+td{
+    background-color: rgb(252, 252, 252);
+}
+caption{
+    text-transform: uppercase;
+    font-size: 20;
+    color:#c26861
+}
+#formularioa{
+    font-size: 18;
+    color:#006600
+}
+#formulariob{
+    font-size: 18;
+    color: #0000ff;
+}
+#formularioc{
+    font-size: 18;
+    color: #ff9900;
+}
+color a{
+    color: #006600;
+}
+color b{
+    color: #0000ff;
+}
+color c{
+    color: #ff9900;
+}
+#figure{
+    border: 1px  #000000 solid;
+    margin: auto;
+    width: 50%;
+    padding: 4px;
+}
+#figcaption{
+    background-color: black;
+    color:#fbfbfb;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+figure img{
+    border-radius: 50%;
+}*/
+/*footer{
+    position: fixed; 
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-image: linear-gradient(#ffffff,#580808);
+   text-align: center;
+}*/
+.boxmodel{
+    width: 310px;
+    padding: 20px;
+    border: 4px solid yellow;
+    margin: auto;
+  }
+  .ti{
+    text-align: center;
+  }
+  .botao{
+    float: right;
+    padding: 30px;
+  }
+  /*BOX MODEL FIM*/
+
+.bob{
+    text-align: center;
+}
+.fefo{
+    width: 350px;
+    height: auto;
+    padding: 50px;
+    margin: auto;
+    box-shadow: 5px 4px 8px #ada8a8;
+}
+.input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+.button{
+    background-color: #0c73ab;
+    color: white;
+    padding: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+ /* .someclass{
+    width: 250px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}*/
+.head { 
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    width: calc(33.33% - 20px);
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+.box p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+}
+.box h2 {
+    font-size: 24px;
+    margin-top: 0;
+    text-align: center;
+}
+.rodapeBox{
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 7px;
+    clear: both;
+}
+.vermelho{
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: yellowgreen black;
+  font-weight: bold;
+  font-size: 25px;
+  color: #660000;
+
+}
+/*FORMUÁRIO BOX MODEL EXEMPLO 2 FIM*/
